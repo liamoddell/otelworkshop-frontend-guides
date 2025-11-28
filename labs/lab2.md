@@ -187,7 +187,7 @@ Navigate through the app at http://localhost:3001:
 - Web vitals (LCP, FID, CLS)
 - Navigation timings
 
-**🔍 Traces Tab (NEW!):**
+**🔍 Sessions Tab:**
 - HTTP requests made by the frontend
 - Request duration and status codes
 - Failed requests highlighted
