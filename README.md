@@ -47,41 +47,6 @@ A realistic Next.js sports betting application featuring:
 
 ---
 
-## Quick Start
-
-
-**Access the workshop:**
-1. Open Theia IDE in your browser: **http://localhost:3000**
-2. Use the integrated terminal in Theia to run commands
-3. **Verify Node.js 20 is installed** (pre-configured in container)
-   ```bash
-   node --version  # Should show v20.18.1
-   ```
-4. Edit files directly in the Theia editor
-5. Start the application from the terminal:
-   ```bash
-   cd /home/project/webapp
-   ./run.sh
-   ```
-6. Open BetWise app: **http://localhost:3001**
-
-**Ports:**
-- `http://localhost:3000` - Theia IDE (file editor + terminal)
-- `http://localhost:3001` - BetWise application
-
-**Stop/Start the container:**
-```bash
-docker stop betwise-workshop
-docker start betwise-workshop
-```
-
-**Remove the container:**
-```bash
-docker rm -f betwise-workshop
-```
-
----
-
 ## Workshop Labs
 
 Workshop lab instructions are provided via GitHub documentation.
